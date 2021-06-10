@@ -1,4 +1,4 @@
-# mighty_notes
+# Charty
 
 A new Flutter application.
 
