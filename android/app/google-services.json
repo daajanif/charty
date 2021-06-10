@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147717734791",
+    "project_id": "charty-d2a33",
+    "storage_bucket": "charty-d2a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147717734791:android:3d12bc8e1771479fcdd322",
+        "android_client_info": {
+          "package_name": "com.innovationlabs.charty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147717734791-9qai7i69smpp0onprjjngai7dcqqdpic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Fkz-bLrluTnAqG1fhZXa0fEAE5ZLxsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147717734791-9qai7i69smpp0onprjjngai7dcqqdpic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
